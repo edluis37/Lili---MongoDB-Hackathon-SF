@@ -1,8 +1,8 @@
-# mongodb_h
-# Lili · Atlas Explorer
+# LILI - MongoDB 
+# Lili · the Explorer!
 https://sentiai.pro/mongo_h/
 An adaptive discovery assistant for finding interesting places, local communities,
-and professional opportunities. Built by Ed Amaya with Python, Flask, MongoDB Atlas,
+and professional opportunities. Built by Ed Amaya with Python and MongoDB Atlas,
 and a browser interface for text and realtime voice.
 
 **Example:** “I have two hours in Lisbon. Help me discover somewhere quiet and
